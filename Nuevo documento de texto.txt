@@ -1,0 +1,14 @@
+instalar 
+
+
+nodejs 6.4	(npm)
+BOWER (ver como instalar todo esto)	(Instalar Composer despues (npm install composer))
+
+
+
+
+
+
+
+
+Buscar FIREBASE (para android)
